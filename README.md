@@ -1,4 +1,44 @@
-# Crypto Signal Bot
+<!-- HERO:START -->
+<p align="center">
+  <a href="https://github.com/juw12/signals"><img src="docs/media/banner.jpg" alt="Signals: A free, $0-capital crypto signal bot." width="100%"></a>
+</p>
+
+<p align="center">
+  <b>A free, $0-capital crypto signal bot.</b><br>
+  RSI + MACD confluence alerts on 4h candles, with paper trading, a backtester and a risk-capped executor. Not financial advice.
+</p>
+
+<p align="center">
+  <a href="#highlights">Highlights</a> ·
+  <a href="https://github.com/juw12">More by juw12</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/juw12/signals"><img src="https://img.shields.io/github/last-commit/juw12/signals?label=updated&color=ca8a04" alt="Last updated"></a>
+  <img src="https://img.shields.io/badge/Python_CLI-24292f" alt="Python CLI">
+  <img src="https://img.shields.io/badge/Telegram-24292f" alt="Telegram">
+</p>
+
+<a id="highlights"></a>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Confluence alerts</b><br>
+      RSI, MACD, ATR and EMA on 4h candles for XRP, DOGE and AVAX.
+    </td>
+    <td width="33%" valign="top">
+      <b>Paper-trades everything</b><br>
+      Every signal is paper-traded, with a backtester and a robustness sweep.
+    </td>
+    <td width="33%" valign="top">
+      <b>Hard risk caps</b><br>
+      An optional Binance executor with hard caps. One dependency: requests.
+    </td>
+  </tr>
+</table>
+<!-- HERO:END -->
+
+## About
 
 A free, $0-capital crypto signal bot. Sends RSI + MACD confluence alerts to Telegram,
 paper-tracks every trade, and ships with a backtester + parameter tuner + (opt-in)
