@@ -199,3 +199,7 @@ The bot is honest about this on purpose. A trading bot that doesn't tell you
   them to git if you want to track how the picture evolves over time.
 - Add Bollinger Bands, multi-timeframe confirmation, or volume filters in
   `strategy.py` — each is a ~20-line addition.
+
+## License
+
+Released under the [MIT License](LICENSE) © 2026 Juwen Lie. Contributions are welcome under the same license; see the [contributing guide](https://github.com/juw12/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/juw12/.github/blob/main/CODE_OF_CONDUCT.md).
