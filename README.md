@@ -1,3 +1,5 @@
+> **Archived — merged into [TradeBot](https://github.com/juw12/projects/tree/main/apps/tradebot).** Over 3 years of 4h candles with the same costs and 1% risk, TradeBot's trend rules beat this repo's RSI + MACD signals on 5 of 6 coins (see the comparison table in the TradeBot README), so the work continues there: Telegram bot, paper trading, an AI desk and a freqtrade dry-run twin.
+
 <!-- HERO:START -->
 <p align="center">
   <a href="https://github.com/juw12/signals"><img src="docs/media/banner.jpg" alt="Signals: A free, $0-capital crypto signal bot." width="100%"></a>
